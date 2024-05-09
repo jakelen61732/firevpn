@@ -1,5 +1,5 @@
-ErrorDocument 400 http://www.kjayvpn.ga
-ErrorDocument 401 http://www.kjayvpn.ga
-ErrorDocument 403 http://www.kjayvpn.ga
-ErrorDocument 404 http://www.kjayvpn.ga
-ErrorDocument 503 http://www.kjayvpn.ga
+ErrorDocument 400 http://firevpn.kjaydev.xyz
+ErrorDocument 401 http://firevpn.kjaydev.xyz
+ErrorDocument 403 http://firevpn.kjaydev.xyz
+ErrorDocument 404 http://firevpn.kjaydev.xyz
+ErrorDocument 503 http://firevpn.kjaydev.xyz
