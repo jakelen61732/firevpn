@@ -106,10 +106,6 @@
   content: '\0055';
 }
 
-.icon-linkedin:before{
+.icon-linkedin:before {
   content:'\0056';
-}
-
-.icon-facebook:before{
-  content:'\0057';
 }
