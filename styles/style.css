@@ -700,15 +700,15 @@ body {
 
 .privacy-page {
   padding-top: 9rem;
-  padding-right: 6rem;
-  padding-left: 6rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
   padding-bottom: 6rem;
   background-color: #202124
 }
 
 .privacy-page .panel-body {
   border-radius: 10px;
-  padding: 5rem;
+  padding: 3rem;
   background-color: #2c2c2c
 }
 
